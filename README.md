@@ -1,3 +1,5 @@
+> **Repositório arquivado em 11/10/2026.** O SaibaTudo Química agora vive no repositório único [franciscoaleixoIOT/SaibaTudo](https://github.com/franciscoaleixoIOT/SaibaTudo), na pasta `apps/quimica/`, com todo este histórico. O site continua em https://saibatudo.net/quimica/.
+
 # SaibaTudo — Química 🧪
 
 Segundo app do ecossistema **SaibaTudo** (apps cívicos e educativos, independentes, de código aberto e sem anúncios). Consulta de elementos, compostos,
